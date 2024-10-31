@@ -75,6 +75,7 @@ def play_rigged_roulette():
     
     print(f"You ended the game with {coins} coins.")
     print("Thank you for playing!")
+    print("the creator's github is at htpps://github.com/paulbadmanthereal")
 
 if __name__ == "__main__":
     play_rigged_roulette()
